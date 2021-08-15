@@ -1,4 +1,4 @@
 # EstudoCpp-Nucleo144
 
-Script CPP for NUCLEO 144
+CPP project for NUCLEO 144
 
