@@ -1,0 +1,8 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+main.cpp:29:6:void CppMain()	72	static
+main.cpp:18:3:T GetMax(T, T) [with T = int]	24	static
+main.cpp:18:3:T GetMax(T, T) [with T = long int]	24	static
+main.cpp:25:3:T GetMin(T, U) [with T = int; U = long int]	16	static
+main.cpp:51:1:void __static_initialization_and_destruction_0(int, int)	16	static
+main.cpp:51:1:cpp)	8	static
+main.cpp:51:1:cpp)	8	static
