@@ -5,7 +5,7 @@
  *      Author: lucas
  */
 
-#include <BTN.h>
+#include "BTN.h"
 
 BTN::BTN(GPIO_TypeDef* gb, uint16_t gp_pin) {
 	// TODO Auto-generated constructor stub
