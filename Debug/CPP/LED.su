@@ -1,9 +1,0 @@
-stm32f7xx_ll_gpio.h:882:22:void LL_GPIO_SetOutputPin(GPIO_TypeDef*, uint32_t)	16	static
-stm32f7xx_ll_gpio.h:911:22:void LL_GPIO_ResetOutputPin(GPIO_TypeDef*, uint32_t)	16	static
-stm32f7xx_ll_gpio.h:940:22:void LL_GPIO_TogglePin(GPIO_TypeDef*, uint32_t)	16	static
-LED.cpp:9:1:LED::LED(GPIO_TypeDef*, uint16_t)	24	static
-LED.cpp:15:1:LED::~LED()	16	static
-LED.cpp:15:1:virtual LED::~LED()	16	static
-LED.cpp:19:6:void LED::On()	16	static
-LED.cpp:23:6:void LED::Off()	16	static
-LED.cpp:27:6:void LED::Toogle()	16	static
